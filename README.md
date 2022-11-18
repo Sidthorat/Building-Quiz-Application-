@@ -1,6 +1,6 @@
 # Building-Quiz-Application-
 The python is used to build a quiz-taking program and test each feature.
-https://github.com/LinkedInLearning/python-project-build-a-quiz-application-2476116
+
 
 Installation
 To use these exercise files, you must have the following installed:
