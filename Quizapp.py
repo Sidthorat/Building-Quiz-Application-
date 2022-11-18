@@ -1,3 +1,5 @@
+
+# From reference of https://github.com/LinkedInLearning/python-project-build-a-quiz-application-2476116
 class QuizApp:
     def __init__(self):
         self.username = ""
