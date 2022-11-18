@@ -7,4 +7,5 @@ Installing
 To use these exercise files, you must have the following installed:
 
 a. Python version 3.10.
+
 b. An IDE: Visual Studio Code.
